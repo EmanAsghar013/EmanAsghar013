@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm [Eman Asghar]<br>🎓 Software Engineering student at University of Gujrat (6th Semester)<br>💡 Passionate about building real-world solutions using AI/ML, Web Development & Database Systems<br>🛠️ Tech Stack:<br>Python JavaScript HTML/CSS C/C++ MySQL Git<br>🤖 Learning: Machine Learning Deep Learning FastAPI React<br>🌱 I believe in building things that actually matter — especially for Pakistan's tech ecosystem<br>📫 Reach me at: your.email@gmail.com
+👋 Hi, I'm [Eman Asghar]<br>🎓 Software Engineering student at University of Gujrat (6th Semester)<br>💡 Passionate about building real-world solutions using AI/ML, Web Development & Database Systems<br>🛠️ Tech Stack:<br>Python JavaScript HTML/CSS C/C++ MySQL Git<br>🤖 Learning: Machine Learning Deep Learning FastAPI React<br>🌱 I believe in building things that actually matter — especially for Pakistan's tech ecosystem<br>📫 Reach me at: asghareman75@gmail.com
 
 
 # 💻 Tech Stack:
